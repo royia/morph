@@ -1,0 +1,17 @@
+"h": turn on/off all the green triangles
+"j": turn on/off all the red triangles (not working in 4 solids morphing, since there are no red ones)
+"k": turn on/off all the blue quads
+"B": morph between 2 or 4 meshes (default to 2 meshes morphing, i.e. Part B on start up)
+"n": 4 meshes morphing using neville
+"b": 4 meshes morphing using bezier
+
+"SPACE": rotate camera
+"z" and move mouse: zoom in/out
+drag mouse on profile points: change point locations
+"i" and press mouse on profile edge's mid point: insert point of profile
+"d" and press mouse on profile vertex: delete point of profile
+"o" and drag mouse: rotate the current mesh
+"c": convexify the current profile
+"1"~"4": make camera and profile to focus on the corresponding solid
+"," and ".": minus/add sampling
+"f": make the camera to follow the morphing
